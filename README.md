@@ -1,2 +1,0 @@
-# papiezcord
-hehe papież
