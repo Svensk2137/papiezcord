@@ -34,7 +34,7 @@ module.exports = class HejDzieci extends Plugin {
 
   startPlugin () {
     powercord.api.commands.registerCommand({
-      command: 'hejsenko',
+      command: 'hejdzieci',
       description: 'Podmienia każdy obrazek na ekranie z papieżem',
       usage: '{c}',
       executor: this.heysenko.bind(this)
